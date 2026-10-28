@@ -20,7 +20,7 @@ O `index.html` roda duas aplicações do PSO direto no navegador:
 
 Para usar, basta abrir o arquivo no navegador. Não precisa instalar nada.
 
-Versão online: *[adicione aqui o link da Vercel](https://particleswarmoptimization.vercel.app/)*
+Versão online: *[link do Projeto](https://particleswarmoptimization.vercel.app/)*
 
 ## Slides
 
